@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "IdOwner": "owner-01",
+        "name": "Apartamento moderno en el centro",
+        "city": "Bogotá",
+        "address": "Calle 10 # 5-20",
+        "price": 250000000,
+        "image": "/imageproperty.jpeg",
+        "description": "Apartamento céntrico, 3 habitaciones, 2 baños."
+    },
+    {
+        "id": "2",
+        "IdOwner": "owner-02",
+        "name": "Casa con jardín",
+        "city": "Medellín",
+        "address": "Carrera 7 # 45-10",
+        "price": 420000000,
+        "image": "/imageproperty.jpeg",
+        "description": "Casa amplia con jardín y garaje."
+    },
+    {
+        "id": "3",
+        "IdOwner": "owner-03",
+        "name": "Apartamento cerca a la playa",
+        "city": "Cartagena",
+        "address": "Calle 1 # 2-30",
+        "price": 350000000,
+        "image": "/imageproperty.jpeg",
+        "description": "Apartamento con vista al mar, 2 habitaciones."
+    },
+    {
+        "id": "4",
+        "IdOwner": "owner-04",
+        "name": "Casa en zona residencial",
+        "city": "Cali",
+        "address": "Calle 50 # 20-15",
+        "price": 500000000,
+        "image": "/imageproperty.jpeg",
+        "description": "Casa moderna en zona tranquila, 4 habitaciones."
+    },
+    {
+        "id": "5",
+        "IdOwner": "owner-05",
+        "name": "Apartamento económico",
+        "city": "Barranquilla",
+        "address": "Carrera 10 # 30-25",
+        "price": 180000000,
+        "image": "/imageproperty.jpeg",
+        "description": "Apartamento económico, ideal para parejas."
+    }
+]
